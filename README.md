@@ -1,2 +1,2 @@
 # Database_MultiDimensional_Visualisation
-In this project i tried to make database more clear by presenting data in a multidimensional view using java programing language.
+It was my end of study projet, trying to understand OLAP principle with multi dimentional database visualisation using Java and Swing.
